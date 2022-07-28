@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZBC400</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Standard-Nachrichten für Kurs BC400</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC400</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Die Operation wurde durchgeführt</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC400</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Der Importparameter wurde nicht ordnungsgemäß mit Wert versorgt</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBC400</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Es wurde der falsche Operator ( &amp; ) eingegeben &amp; &amp; &amp;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
